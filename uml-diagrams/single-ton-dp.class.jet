@@ -1,0 +1,1 @@
+{"diagram":"ClassDiagram","nodes":[{"methods":"__new__()\n__init__()","name":"Animal","x":490,"y":120,"attributes":"id\nname\ninstance","id":0,"type":"ClassNode"}],"edges":[],"version":"3.5"}
